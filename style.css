@@ -23,7 +23,7 @@ body{
     border-radius: 50%;
     border: 5px inset #000000 ;
     position: relative;
-    background-image: url('../images/i1.jpg');
+    background-image: url('i1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     
